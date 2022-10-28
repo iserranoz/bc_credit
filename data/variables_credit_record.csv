@@ -1,0 +1,4 @@
+Nombre ,Explicación,Observaciones
+ID,Numero de cliente,
+MONTHS_BALANCE,Mes récord,"El mes de los datos extraídos es el punto de partida, hacia trás, 0 es el mes actual, -1 es el mes anterior, etc."
+STATUS,Estado,"0: 1-29 días de atraso 1: 30-59 días de atraso 2: 60-89 días de atraso 3: 90-119 días de atraso 4: 120-149 días de atraso 5: Deudas vencidas o incobrables, cancelaciones por más de 150 días C: liquidado ese mes X: sin préstamo durante el mes"

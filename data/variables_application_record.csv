@@ -1,0 +1,19 @@
+Nombre ,Explicación,Observaciones
+ID,Numero de cliente,
+CODE_GENDER,Género,
+FLAG_OWN_CAR,Hay un coche,
+FLAG_OWN_REALTY,Hay una propiedad,
+CNT_CHILDREN,Número de niños,
+AMT_INCOME_TOTAL,Ingresos anuales,
+NAME_INCOME_TYPE,Categoría de ingresos,
+NAME_EDUCATION_TYPE,Nivel de educación,
+NAME_FAMILY_STATUS,Estado Civil,
+NAME_HOUSING_TYPE,Modo de vivir,
+DAYS_BIRTH,Cumpleaños,"Cuente hacia atrás desde el día actual (0), -1 significa ayer"
+DAYS_EMPLOYED,Fecha de inicio del empleo,"Cuente hacia atrás desde el día actual (0). Si es positivo, significa la persona actualmente desempleada."
+FLAG_MOBIL,¿Hay un teléfono móvil?,
+FLAG_WORK_PHONE,¿Hay un teléfono de trabajo?,
+FLAG_PHONE,Hay un telefono,
+FLAG_EMAIL,¿Hay un correo electrónico?,
+OCCUPATION_TYPE,Ocupación,
+CNT_FAM_MEMBERS,Tamaño de la familia,
