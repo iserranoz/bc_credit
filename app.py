@@ -42,7 +42,7 @@ if nav == 'Introducción':
 
         	2. Tratamiento de los datos y KPIs
 
-        	   Mostrar las transformaciones que se generaron para obtener la información requerida y plantear los KPIs, esto solo será una breve explicacion, el notebook conmpleto se deja en el [repositorio](https://github.com/iserranoz)
+        	   Mostrar las transformaciones que se generaron para obtener la información requerida y plantear los KPIs, esto solo será una breve explicacion, el notebook conmpleto se deja en el [repositorio](https://github.com/iserranoz/bc_credit)
 
         	3. Análisis descriptivo
 
